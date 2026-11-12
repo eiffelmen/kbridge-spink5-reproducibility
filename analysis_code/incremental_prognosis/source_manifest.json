@@ -1,0 +1,26 @@
+{
+  "sources": [
+    {
+      "key": "tcga_model",
+      "source": "../public_hnsc/results/model_data_M2_age_clinical_stage_sex_smoking_site.tsv",
+      "copy": "inputs/model_data_M2_age_clinical_stage_sex_smoking_site.tsv",
+      "bytes": 32523,
+      "sha256": "9864de334bfd5d2e548ad9f4687fe4582bc1b520143cbdd926c7e614a13bbe21"
+    },
+    {
+      "key": "tcga_patient_join",
+      "source": "../public_hnsc/results/analysis_primary_tumours.tsv",
+      "copy": "inputs/analysis_primary_tumours.tsv",
+      "bytes": 672862,
+      "sha256": "f6f849bc13217c3814bee45e64788536bc0384e558388c743c55dd1fda54eb26"
+    },
+    {
+      "key": "external_model",
+      "source": "../external_hnsc/primary_clinical_hpv_model_input.csv",
+      "copy": "inputs/primary_clinical_hpv_model_input.csv",
+      "bytes": 18319,
+      "sha256": "a542aea315736582151c75fc7d705c8a6aabcc97b5c4999c8c5f88157690a8c5"
+    }
+  ],
+  "plan_sha256": "7ff9c6d52c55b536a3f6848db3158db17abd72efad499db06193329c35c279f8"
+}

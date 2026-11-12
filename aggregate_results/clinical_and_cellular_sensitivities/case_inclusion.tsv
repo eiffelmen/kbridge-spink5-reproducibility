@@ -1,0 +1,7 @@
+cohort	group	n	deaths
+TCGA-HNSC	Included	491	210
+TCGA-HNSC	Excluded	26	10
+TCGA-HNSC	p16 known	110	28
+TCGA-HNSC	p16 unknown	407	192
+GSE65858	Included	233	73
+GSE65858	Excluded	20	12

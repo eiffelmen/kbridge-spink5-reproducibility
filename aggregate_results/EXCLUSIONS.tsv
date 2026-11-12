@@ -1,0 +1,42 @@
+source_member	reason
+README.md	Superseded by the public release documentation or duplicated by the selected aggregates.
+clinical_and_cellular_sensitivities/puram_patient_detection.tsv	Contains or derives from row-level participant, specimen or cell records.
+clinical_and_cellular_sensitivities/puram_primary_cell_expression.tsv	Contains or derives from row-level participant, specimen or cell records.
+clinical_and_cellular_sensitivities/tcga_composition_scores.tsv	Contains or derives from row-level participant, specimen or cell records.
+gse65858/SPINK5_probe_expression.csv	Contains or derives from row-level participant, specimen or cell records.
+gse65858/SPINK5_probe_mapping.csv	Illumina annotation includes source probe sequence and extra manufacturer metadata.
+gse65858/all_tumors_clinical_hpv_model_input.csv	Contains or derives from row-level participant, specimen or cell records.
+gse65858/analysis_observations_and_exclusions.csv	Contains or derives from row-level participant, specimen or cell records.
+gse65858/analysis_summary.json	Superseded by the public release documentation or duplicated by the selected aggregates.
+gse65858/primary_clinical_hpv_model_input.csv	Contains or derives from row-level participant, specimen or cell records.
+gse65858/primary_clinical_model_input.csv	Contains or derives from row-level participant, specimen or cell records.
+gse65858/primary_unadjusted_model_input.csv	Contains or derives from row-level participant, specimen or cell records.
+gse65858/sample_metadata.csv	Contains or derives from row-level participant, specimen or cell records.
+gse65858/sex_stratified_PH_sensitivity.json	Superseded by the public release documentation or duplicated by the selected aggregates.
+incremental_discrimination/cv_coefficients.tsv	Finer-grained validation output; the public release retains cohort and repetition summaries.
+incremental_discrimination/cv_fold_metrics.tsv	Finer-grained validation output; the public release retains cohort and repetition summaries.
+incremental_discrimination/cv_membership.tsv	Contains or derives from row-level participant, specimen or cell records.
+incremental_discrimination/cv_patient_predictions.tsv	Contains or derives from row-level participant, specimen or cell records.
+incremental_discrimination/cv_scaling.tsv	Finer-grained validation output; the public release retains cohort and repetition summaries.
+incremental_discrimination/incremental_summary.json	Superseded by the public release documentation or duplicated by the selected aggregates.
+incremental_discrimination/validation_checks.json	Superseded by the public release documentation or duplicated by the selected aggregates.
+kbridge/additional_validation/tonsil_gene_coverage.csv	Contains specimen-level accession; the gene coverage is stated in the manuscript.
+kbridge/additional_validation/tonsil_input_log_cpm.csv	Contains or derives from row-level participant, specimen or cell records.
+kbridge/additional_validation/tonsil_predictions.csv	Contains or derives from row-level participant, specimen or cell records.
+kbridge/additional_validation/validation_predictions.csv	Contains or derives from row-level participant, specimen or cell records.
+kbridge/internal_validation/oof_predictions.csv	Contains or derives from row-level participant, specimen or cell records.
+kbridge/internal_validation/training_panel_log_expression.csv	Contains or derives from row-level participant, specimen or cell records.
+kbridge/internal_validation/training_pca.csv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/analysis_primary_tumours.tsv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/analysis_summary.json	Superseded by the public release documentation or duplicated by the selected aggregates.
+tcga_hnsc/expression_spink5_all_samples.tsv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/model_data_M0_unadjusted.tsv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/model_data_M1_age_clinical_stage.tsv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/model_data_M1_same_complete_cases_as_M2.tsv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/model_data_M2_age_clinical_stage_sex_smoking_site.tsv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/model_data_S1_age_pathologic_stage.tsv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/model_data_S2_age_pathologic_then_clinical_stage.tsv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/model_data_S3_p16_subset_age_stage_ordinal.tsv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/model_data_S4_p16_subset_age_stage_ordinal_HPV.tsv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/model_data_S5_nonoropharynx_age_clinical_stage_sex_smoking.tsv	Contains or derives from row-level participant, specimen or cell records.
+tcga_hnsc/paired_tumour_normal.tsv	Contains or derives from row-level participant, specimen or cell records.

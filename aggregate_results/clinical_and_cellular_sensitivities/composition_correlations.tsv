@@ -1,0 +1,3 @@
+cohort	population	n	markers_expected	rho	P	markers_measured
+TCGA-HNSC	B lineage	520	9	0.2320191883967706	8.731756243852558e-08	8
+TCGA-HNSC	Fibroblasts	520	8	-0.2087817750000972	1.5667733133493482e-06	8

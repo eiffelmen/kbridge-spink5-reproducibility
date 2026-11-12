@@ -1,0 +1,4 @@
+comparison	n	unit	effect	estimate	CI95_low	CI95_high	test	statistic	statistic_value	degrees_of_freedom	P_two_sided	bootstrap_resamples	bootstrap_seed
+Paired primary tumour minus matched solid normal	43	patient pair	Median log2 expression difference	-3.859999999999999	-5.267999999999999	-3.1500000000000004	Wilcoxon signed rank (exact)	W	109.0		2.2359058675647248e-06	10000	20261112
+Bulk SPINK5 versus B lineage score	520	primary tumour patient	Spearman rho	0.2320191883967706	0.14858837148531742	0.3106882306290746	Spearman rank correlation (asymptotic)	t	5.428812754861633	518	8.731756243852557e-08	10000	20261112
+Bulk SPINK5 versus Fibroblasts score	520	primary tumour patient	Spearman rho	-0.20878177500009723	-0.2940396366997873	-0.1221475035863854	Spearman rank correlation (asymptotic)	t	-4.858871039629221	518	1.5667733133493482e-06	10000	20261112

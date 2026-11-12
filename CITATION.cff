@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite this version when using the code or aggregate results."
+title: "K-BRIDGE and SPINK5 in head and neck cancer: analysis code and aggregate results"
+type: software
+version: 1.0.0
+date-released: 2026-11-12
+authors:
+  - family-names: Yan
+    given-names: Shi
+  - family-names: Xiao
+    given-names: Yizhu
+  - family-names: Ruan
+    given-names: Changshun
+  - family-names: Zhou
+    given-names: Xiaoying
+  - family-names: Yang
+    given-names: Huan
+  - family-names: Luo
+    given-names: Xiaoyan
+  - family-names: Wang
+    given-names: Hua
+  - family-names: Bai
+    given-names: Xiaoming

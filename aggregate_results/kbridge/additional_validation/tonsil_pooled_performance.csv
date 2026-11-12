@@ -1,0 +1,5 @@
+model_scaling,cells,B_cells,plasmablasts_and_plasma_cells,AUROC,AUPRC
+source_standardized_kbridge,845,615,230,0.9902792506185932,0.9764931221128518
+within_tonsil_kbridge,845,615,230,0.987734181689643,0.9636284029977514
+source_standardized_elastic_net,845,615,230,0.9854012018381052,0.9650520585282
+within_tonsil_elastic_net,845,615,230,0.9875291622481444,0.962383012770684

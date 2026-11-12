@@ -1,0 +1,48 @@
+{
+  "retrieved_utc": "2026-09-25",
+  "origin": "UCSC Xena TCGA public hub",
+  "sources": {
+    "clinical": "https://tcga.xenahubs.net/download/TCGA.HNSC.sampleMap/HNSC_clinicalMatrix",
+    "expression": "https://tcga.xenahubs.net/download/TCGA.HNSC.sampleMap/HiSeqV2.gz",
+    "expression_API": "https://tcga.xenahubs.net/data/",
+    "expression_metadata": "https://tcga.xenahubs.net/download/TCGA.HNSC.sampleMap/HiSeqV2.json",
+    "clinical_metadata": "https://tcga.xenahubs.net/download/TCGA.HNSC.sampleMap/HNSC_clinicalMatrix.json",
+    "API_documentation": "https://github.com/ucscXena/xenaPython"
+  },
+  "notes": [
+    "The TCGA-HNSC clinical matrix and a single-gene SPINK5 expression query are supplied.",
+    "Expression values are log2(normalized count + 1), dataset version 2017-10-13. Clinical metadata version is 2019-12-06."
+  ],
+  "files": [
+    {
+      "file": "HNSC_clinicalMatrix.json",
+      "bytes": 326,
+      "sha256": "da19e126465eede8e13a2e3c0cb29949e5bf7aac23f3513e663d8825263746f2"
+    },
+    {
+      "file": "HNSC_clinicalMatrix.tsv",
+      "bytes": 684094,
+      "sha256": "d054a6727060d4d42077352772e1d7778908d2e134fa035ef399e464a9e52bf2"
+    },
+    {
+      "file": "HiSeqV2.json",
+      "bytes": 2620,
+      "sha256": "98860180c760201238dd480adb0a14bd3672b5f340666c3b0c8c9e497a6e0a11"
+    },
+    {
+      "file": "SPINK5_all_samples.json",
+      "bytes": 3324,
+      "sha256": "af8884493d038ee40958b19aab32138ea35969ef9ded683407143f89702b381a"
+    },
+    {
+      "file": "expression_sample_ids.json",
+      "bytes": 10754,
+      "sha256": "d42bf04c60b8de7b10f1fa5d55746f86808a65a6776fdbe9c8756dde068ccf43"
+    },
+    {
+      "file": "spink5_all_samples_query.xq",
+      "bytes": 10832,
+      "sha256": "7336debc9354130a22dc585dd4ce8017aa1d56fcd6b1ac1cb1637d13dfac64ce"
+    }
+  ]
+}

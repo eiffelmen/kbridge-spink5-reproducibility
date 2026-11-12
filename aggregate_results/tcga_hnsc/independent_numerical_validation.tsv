@@ -1,0 +1,10 @@
+model	max_abs_coef_difference_lifelines_statsmodels	max_abs_se_difference
+M0_unadjusted	1.7501208815495772e-10	2.2688101397605465e-12
+M1_age_clinical_stage	1.9804586495697496e-05	3.3809439802245933e-06
+M2_age_clinical_stage_sex_smoking_site	8.98005983185346e-06	1.7800612679419459e-06
+M1_same_complete_cases_as_M2	3.0320721124216243e-05	5.733582208566901e-06
+S1_age_pathologic_stage	9.784192341877329e-06	2.3511952362831323e-06
+S2_age_pathologic_then_clinical_stage	1.1304325120420344e-05	2.7320452041790233e-06
+S3_p16_subset_age_stage_ordinal	3.9236981907997404e-07	8.677063406681285e-08
+S4_p16_subset_age_stage_ordinal_HPV	2.8873177848609544e-07	6.188809342777546e-08
+S5_nonoropharynx_age_clinical_stage_sex_smoking	1.438261335881541e-05	2.9870217243543884e-06

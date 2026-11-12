@@ -1,0 +1,12 @@
+**/__pycache__/
+**/.venv/
+/analysis_code/**/data/
+/analysis_code/**/inputs/
+/analysis_code/**/source_inputs/
+/analysis_code/**/results/
+/analysis_code/**/internal_results/
+/analysis_code/kbridge/external/
+/analysis_code/external_hnsc/*.gz
+/analysis_code/external_hnsc/*.csv
+/analysis_code/external_hnsc/*.tsv
+/analysis_code/*.pdf

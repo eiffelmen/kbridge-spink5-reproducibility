@@ -1,0 +1,7 @@
+cohort	model	n	deaths	n_coefficients	loglik	loglik_statsmodels	warnings	features
+TCGA	clinical	491	210	9	-1132.4921990493717	-1132.4921990493717		age10;male;ever_smoked;stage_2_vs_1;stage_3_vs_1;stage_4_vs_1;site_larynx_vs_oral_cavity;site_oropharynx_vs_oral_cavity;site_hypopharynx_vs_oral_cavity
+TCGA	clinical_SPINK5	491	210	10	-1126.2388154575906	-1126.2388154575915		SPINK5;age10;male;ever_smoked;stage_2_vs_1;stage_3_vs_1;stage_4_vs_1;site_larynx_vs_oral_cavity;site_oropharynx_vs_oral_cavity;site_hypopharynx_vs_oral_cavity
+GSE65858	clinical	233	73	6	-331.18209306685003	-331.1820930668499		age10;male;hpv_active;stage_II;stage_III;stage_IV
+GSE65858	clinical_SPINK5	233	73	7	-330.04061237370524	-330.04061237370524		SPINK5;age10;male;hpv_active;stage_II;stage_III;stage_IV
+GSE65858_sex_stratified	clinical	233	73	5	-299.2757039221709	-299.27570392217103		age10;hpv_active;stage_II;stage_III;stage_IV
+GSE65858_sex_stratified	clinical_SPINK5	233	73	6	-298.24527099893794	-298.2452709989379		SPINK5;age10;hpv_active;stage_II;stage_III;stage_IV
